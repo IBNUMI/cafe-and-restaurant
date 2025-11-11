@@ -1,0 +1,134 @@
+
+.card-div{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    width: 95%;
+    margin-left: 20px;
+}
+.card{
+    margin: 10px;
+    border: 1px solid #EBE8FF;
+    border-radius: 20px;
+    padding: 10px 25px;
+    text-align: center;
+    padding-right: 55px;
+}
+
+.viwe-card{
+   margin-right: 20px;
+}
+.viwe-card2{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.viwe-card h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.link-more{
+    text-decoration: underline;
+}
+.name-devloper{
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.arrow{
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.pero-so{
+   align-items: center;
+   margin-top: 10px;
+}
+
+.text-gray{
+    color: #797D8C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .card-div{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    width: 90%;
+    margin-left: 30px;
+}
+.first-card{
+    margin: 10px;
+    border: 1px solid #EBE8FF;
+    border-radius: 20px;
+    padding: 10px 25px;
+    text-align: center;
+    padding-right: 55px;
+}
+
+.viwe-card{
+   margin-right: 20px;
+}
+.viwe-card2{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.viwe-card h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.link-more{
+    text-decoration: underline;
+}
+.name-devloper{
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.arrow{
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.pero-so{
+   align-items: center;
+   margin-top: 10px;
+} */
+
